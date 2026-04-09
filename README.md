@@ -69,17 +69,6 @@ DSA, OOP, Operating Systems, DBMS
 
 ---
 
-## 📊 GitHub Stats
-
-![Aneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aneesh-jain28&show_icons=true&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aneesh-jain28)
-
----
 
 ## 📫 Let's Collaborate!
 I’m always open to:
