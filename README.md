@@ -14,11 +14,35 @@
 ---
 
 ## 🧠 Coding Profiles
-- 🔥 Solved 600+ DSA Problems across platforms  
-- ⭐ CodeChef: 3-Star (Max Rating: 1633)  
-- 🏆 Codeforces | LeetCode | CodeChef  
-- 📊 AIR 1182 – ICPC’25 Prelims  
-- 🌍 Rank 7715 / 47K+ – IICPC  
+ <p align="center">
+  <a href="https://leetcode.com/aadinath_">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  
+  <a href="https://codeforces.com/profile/jainomatic">
+    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.codechef.com/users/aneesh120">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+C, C++, Python, JavaScript, SQL  
+
+**Frameworks & Tools:**  
+React.js, Node.js, Express.js, Redux Toolkit, Tailwind CSS  
+
+**Tools & Platforms:**  
+Git, GitHub, MongoDB, Postman  
+
+**Core Subjects:**  
+DSA, OOP, Operating Systems, DBMS  
 
 ---
 
@@ -45,30 +69,6 @@
 **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind, Recharts  
 
 ---
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-C, C++, Python, JavaScript, SQL  
-
-**Frameworks & Tools:**  
-React.js, Node.js, Express.js, Redux Toolkit, Tailwind CSS  
-
-**Tools & Platforms:**  
-Git, GitHub, MongoDB, Postman  
-
-**Core Subjects:**  
-DSA, OOP, Operating Systems, DBMS  
-
----
-
-## 🏆 Achievements
-- 🥉 3rd Rank (Prelims) & 5th Rank (Finals) – Code of Thrones (IIIT Surat)  
-- ⭐ CodeChef Global Ranks: 71 & 275  
-- 🧠 Strong DSA foundation (600+ problems solved)  
-
----
-
 
 ## 📫 Let's Collaborate!
 I’m always open to:
