@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aneesh Jain
 
-🎓 B.Tech CSE @ IIIT Nagpur (CGPA: 9.09)  
+🎓 B.Tech CSE @ IIIT Nagpur (CGPA: 9.14) 
 💻 Aspiring Software Developer | Problem Solver  
 🚀 Passionate about DSA, Backend Development & AI  
 
@@ -33,7 +33,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-C, C++, Python, JavaScript, SQL  
+C, C++, Python, JavaScript, SQL, Java, Go, Golang  
 
 **Frameworks & Tools:**  
 React.js, Node.js, Express.js, Redux Toolkit, Tailwind CSS  
